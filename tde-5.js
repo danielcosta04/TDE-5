@@ -1,5 +1,4 @@
-2
-  function next(){
+function next(){
   document.write(`<br>`)
 }
 // document.write(`<br>1. Escreva uma função que retorne o cubo de um número fornecido pelo usuário.`)
